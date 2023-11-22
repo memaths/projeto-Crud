@@ -1,0 +1,30 @@
+
+endpoint:localhost:8090/clientes
+endpoint:localhost:8090/pedidos
+
+comando POST para clientes:
+{
+    "name": "mateus"
+}
+comando POST para pedidos:
+{
+	"item": "teclado",
+    "valor": "80",
+    "clientes":{
+        "id": 1
+    }
+}
+
+comando PUT para clientes:
+{
+    "name": "mateus"
+}
+comando PUT para pedidos:
+{
+	"item": "barco",
+    "valor":"3000",
+    "cliente":{
+        "id": 1
+    }
+}
+
