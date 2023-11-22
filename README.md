@@ -1,7 +1,5 @@
 # Trabalho CRUD da disciplina de Programação Orientada a Objetos em Java
 
-![Java Logo](https://www.pngmart.com/files/21/Spring-Logo-PNG-HD-Isolated.png)
-
 **Aluno:** Mateus de mesquita sousa
 
 **Matrícula:** 202202139807
