@@ -7,6 +7,7 @@
 **Matrícula:** 202202139807
 
 Este projeto crud foi desenvolvido como parte da disciplina Programação Orientada a Objetos em Java. 
+depedencias:jpa,h2 data base e springweb
 
 
 
